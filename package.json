@@ -40,6 +40,6 @@
     "rimraf": "^3.0.2",
     "typesafeconfig": "^4.3.0",
     "typescript": "^5.2.2",
-    "vitest": "^0.34.4"
+    "vitest": "^0.34.6"
   }
 }
